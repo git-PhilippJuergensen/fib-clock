@@ -1,0 +1,13 @@
+#blocks {
+  position: absolute;
+  background-color: white;
+  overflow: visible;
+  color: rgba(0, 0, 0, 0);
+  font-size:2em;
+  padding:0.2em;
+  position:relative;
+  margin: 0 auto;
+  width: 800px;
+  height: 500px;
+  overflow: visible;
+}
